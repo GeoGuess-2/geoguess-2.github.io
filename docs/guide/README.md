@@ -10,14 +10,14 @@ This game was forked from [GeoGuess Master](https://geoguessmaster.com/).
 
 
 
-## Geoguess Principe
+## Geoguess Principle
 1. GeoGuess is an open-source game
 2. GeoGuess is free
-3. GeoGuess is decentralized. Anyone can install its game server without any dependence on this repository
-4. GeoGuess keep in mind to have an educational goal
+3. GeoGuess is decentralized. Anyone can install their own game server without any dependence on this repository
+4. GeoGuess keeps in mind to have an educational goal
 
 
 
-This guide explains how to deploy your own server GeoGuess.
+This guide explains how to deploy your own GeoGuess server.
 
 <!--imageSocial"https://geoguess.games/img/social.jpg"-->
